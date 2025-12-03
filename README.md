@@ -1,0 +1,1 @@
+Built an automated review analysis pipeline for a women's clothing store that ingests data, cleans it, performs sentiment classification and review summarization using an LLM (Groq), performs analytical insights and generates actionable findings, then writes processed results back into Google Sheets. 
