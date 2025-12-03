@@ -1,0 +1,12 @@
+{
+  "total_reviews": 200,
+  "sentiment_distribution": {
+    "Neutral": 43.5,
+    "Positive": 39.0,
+    "Negative": 17.0,
+    "": 0.5
+  },
+  "extreme_sentiments": {
+    "highest_positive": {
+      "class_name": "Knits",
+      "count": 
